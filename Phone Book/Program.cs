@@ -8,8 +8,6 @@ namespace Phone_Book
         static void Main(string[] args)
         {
             Session session = new Session();
-        }
-
-        
+        }   
     }
 }
